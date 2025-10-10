@@ -2,7 +2,8 @@
 # Lab Session: Week 2 - Feature Detection and Deep Learning
 
 Welcome to the lab session! In this tutorial, we will guide you through **OpenCV** and **PyTorch**. The session includes two exercises, progressing from easy to more challenging tasks.
-
+wang
+wang
 ### Session Structure:
 **Exercises**:
    - **Level 1 (OpenCV)**: Image operation using OpenCV (easy).
